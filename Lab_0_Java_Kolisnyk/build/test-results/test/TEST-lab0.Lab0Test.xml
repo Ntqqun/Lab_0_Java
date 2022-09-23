@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Lab0Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-20T19:08:04" hostname="MacBook-Pro-Glib.local" time="0.006">
+  <properties/>
+  <testcase name="intProviderTest[0](1001, 1)" classname="lab0.Lab0Test" time="0.003"/>
+  <testcase name="intProviderTest[1](2000, 2)" classname="lab0.Lab0Test" time="0.001"/>
+  <testcase name="intProviderTest[2](100, 0)" classname="lab0.Lab0Test" time="0.0"/>
+  <testcase name="intProviderTest[3](3000, 3)" classname="lab0.Lab0Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
